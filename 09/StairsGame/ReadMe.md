@@ -1,6 +1,5 @@
-**Chava**
+`Chava Neiman`
 ===============================================================================
-`Chava Neiman`, ID 567374928, chavaneiman1@gmail.com
 
                            Project 9 - VM translator
                            --------------------------
