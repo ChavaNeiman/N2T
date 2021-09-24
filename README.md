@@ -1,3 +1,3 @@
-## Nand-To-Tetris
+# Nand-To-Tetris
 
-# Solutions for projects 1-7 in the Nand To Tetries course
+Solutions for projects 1-7 in the Nand To Tetries course
